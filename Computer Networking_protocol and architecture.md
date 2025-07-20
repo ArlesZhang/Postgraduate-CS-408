@@ -150,6 +150,7 @@
 
 ---
 
-📂 本笔记为本人在学习《计算机网络：自顶向下方法》过程中的 Q&A 的阶段性总结（基于GPT），欢迎在 GitHub Discussions 中交流你的思考与感悟。                 
-🎗️My GitHub Link:https://github.com/ArlesZhang
+本笔记为本人在学习《计算机网络：自顶向下方法》过程中的 Q&A 的总结（基于GPT），欢迎在 GitHub Discussions 中交流你的思考与感悟。                 
+My GitHub Link:https://github.com/ArlesZhang
+
 ---
