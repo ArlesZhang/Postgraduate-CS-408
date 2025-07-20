@@ -7,6 +7,16 @@
 
 ---
 
+## 配套资源
+- **本书Web**：[Computer Networking:A Top-Down Approach Web](https://media.pearsoncmg.com/bc/abp/cs-resources/products/product.html#student,isbn=0136681557)    
+- **第8版官网**：[https://gaia.cs.umass.edu/kurose_ross/](https://gaia.cs.umass.edu/kurose_ross/)  
+    （含Wireshark实验、交互式动画、PPT等）
+- **旧版资源**：可通过[Wayback Machine](https://web.archive.org/)搜索历史存档。
+	[https://web.archive.org](https://web.archive.org/) → 输入旧版Pearson链接（如第6版的资源路径）。
+- **其他书籍**：可能使用 [Pearson MyLab](https://www.pearsonmylabandmastering.com/) 平台。
+
+本书极力推荐的 Traceroute 小程序：[Traceroute applets](http://www.traceroute.org) 是经典的全球路由跟踪测试点列表网站。提供了来自不同国家和ISP的Traceroute服务器。但依赖 **Java 虚拟机（JVM）**，而现代浏览器已不再支持Java插件，因此你可能无法直接使用它。所以，推荐使用以下**现代在线工具**进行路由跟踪：[IPIP.NET Traceroute](https://tools.ipip.net/traceroute.php)（支持全球多节点测试）。
+
 ## ✉️ 网络中“分组”与“分片”的根本区别
 
 * **分组（Packet）**：由应用层数据 + 协议头构成的逻辑单位，发送前按协议（如TCP）分段封装，整个网络中传输的基本单位。
